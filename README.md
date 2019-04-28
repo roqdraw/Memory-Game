@@ -1,4 +1,4 @@
-#Memory Game
+# Memory Game
 #### GA.WDI Fundamentals 
 
 Exercise on the basics of HTML, CSS and JS.
